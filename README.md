@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# [HTTPS is actually everywhere.](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere)
+
+We learned about HTTP protocl in class last week, so I thought it would be nice to share how one of the extensions I use, HTTPS Everywhere, is being deprecated as the goal of having HTTPS almost everywhere is a function built into most browsers and most websites. Cybersecurity and online privacy isn't something that most people really think about, so I think it's really important that organizations like the Electronic Frontier Foundation really push tech companies in that direction.
